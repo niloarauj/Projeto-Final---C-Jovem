@@ -1,20 +1,22 @@
+
 import './App.css'
-import './index.css';
 
 function App() {
+  
 
   return (
-    <body>
 
+      <nav className="navbar fixed-top bg-body-tertiary">
+      <div className="container-fluid">
+        
+      </div>
+    </nav>
+   
+        
+   
+   
+  )
 
-
-
-
-      
-    </body>
-    
-  );
 }
 
-export default App;
-
+export default App
