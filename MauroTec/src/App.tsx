@@ -6,11 +6,7 @@ function App() {
 
   return (
 
-      <nav className="navbar fixed-top bg-body-tertiary">
-      <div className="container-fluid">
-        
-      </div>
-    </nav>
+    <div></div>
    
         
    
